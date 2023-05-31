@@ -7,6 +7,7 @@ Soy un estudiante apasionado por la informatica el cual disfruta sus dias progra
 
 Ademas de programar, mi pasatiempo favorito es disfrutar de jugar videojuegos.
 
+Actualmente he terminado de hacer el proyecto ROAP y no estoy desarrollando ningun proyecto
 
 
 ## Tecnologías:
@@ -29,6 +30,7 @@ Ademas de programar, mi pasatiempo favorito es disfrutar de jugar videojuegos.
 [![Twitter](https://img.shields.io/badge/Twitter-@adria432018-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/adria432018)
 [![Instagram](https://img.shields.io/badge/Instagram-@adrixsev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/adrixsev)
 [![Gmail](https://img.shields.io/badge/Gmail-adriaferrer16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](adriaferrer16@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AdriaFerrer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/AdriaFerrer)
 
 ## Mis proyectos:
 ### Clov-is:
