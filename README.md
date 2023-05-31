@@ -41,4 +41,6 @@ Pulsa la imagen para dirigirte a la pagina en la Play Store!
 
 ### ROAP:
 
-![image](https://github.com/Adrixcven/Adrixcven/blob/main/roap_logo.png)
+[![image](https://github.com/Adrixcven/Adrixcven/blob/main/roap_logo.png)](https://github.com/Adrixcven/Roap)]
+
+Pulsa la imagen para dirigirte al repositorio!
