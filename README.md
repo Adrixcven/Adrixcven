@@ -7,7 +7,7 @@ Soy un estudiante apasionado por la informatica el cual disfruta sus dias progra
 
 Ademas de programar, mi pasatiempo favorito es disfrutar de jugar videojuegos.
 
-Actualmente he terminado de hacer el proyecto ROAP y no estoy desarrollando ningun proyecto
+Actualmente desarrollando Sonic Unity
 
 
 ## Tecnologías:
