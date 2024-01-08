@@ -49,7 +49,7 @@ Pulsa la imagen para dirigirte al repositorio!
 
 ### Sonic Unity:
 
-[![image](https://github.com/Adrixcven/Adrixcven/blob/main/Sonic_Unity_Logo.png)](https://github.com/Adrixcven/SonicUnity)
+[![image](https://github.com/Adrixcven/Adrixcven/blob/main/Sonic_Unity_Logo.png)](https://github.com/Adrixcven/SonicUnityGame)
 
 Pulsa la imagen para dirigirte al repositorio!
 
