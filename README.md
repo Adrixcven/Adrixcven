@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/99873094/214165529-027c3d09-f4bd-45b3-8d23-358b60fb98f6.png)
 
-Soy un estudiante apasionado por la informatica el cual disfruta sus dias programando en diferentes lenguajes, como kotlin, java o Python.
+Soy un estudiante apasionado por la informatica el cual disfruta sus dias programando en diferentes lenguajes, como Kotlin, Java, Python o Unity.
 
 Ademas de programar, mi pasatiempo favorito es disfrutar de jugar videojuegos.
 
@@ -24,6 +24,8 @@ Actualmente desarrollando Sonic Unity
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![BootStrap](https://img.shields.io/badge/Bootstrap-563D?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
+[![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)]()
 
 ## Encuéntrame en:
 
