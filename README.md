@@ -1,13 +1,11 @@
 # Hola, mi nombre es Adrià Ferrer 👋
-### Estudiante de informática de segundo año del Ciclo Formativo de Grado Superior (FP) de DAM en el Instituto Nicolau Copèrnic de Terrassa.
+### Actualmente soy Tecnico Superior en DAM y cursando Ingenieria Informatica en la Universidad Autònoma de Barcelona.
 
 ![image](https://user-images.githubusercontent.com/99873094/214165529-027c3d09-f4bd-45b3-8d23-358b60fb98f6.png)
 
 Soy un estudiante apasionado por la informatica el cual disfruta sus dias programando en diferentes lenguajes, como Kotlin, Java, Python o Unity.
 
 Ademas de programar, mi pasatiempo favorito es disfrutar de jugar videojuegos.
-
-Actualmente desarrollando Sonic Unity
 
 
 ## Tecnologías:
@@ -30,7 +28,6 @@ Actualmente desarrollando Sonic Unity
 ## Encuéntrame en:
 
 [![Twitter](https://img.shields.io/badge/Twitter-@adria432018-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/adria432018)
-[![Instagram](https://img.shields.io/badge/Instagram-@adrixsev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/adrixsev)
 [![Gmail](https://img.shields.io/badge/Gmail-adriaferrer16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](adriaferrer16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AdriaFerrer-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/AdriaFerrer)
 
