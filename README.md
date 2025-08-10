@@ -1,11 +1,7 @@
 # Hola, mi nombre es Adrià Ferrer 👋
-### Actualmente soy Tecnico Superior en DAM y cursando Ingenieria Informatica en la Universidad Autònoma de Barcelona.
+### Actualmente soy Tecnico Superior en DAM y cursando Ingenieria Informatica.
 
-![image](https://user-images.githubusercontent.com/99873094/214165529-027c3d09-f4bd-45b3-8d23-358b60fb98f6.png)
-
-Soy un estudiante apasionado por la informatica el cual disfruta sus dias programando en diferentes lenguajes, como Kotlin, Java, Python o Unity.
-
-Ademas de programar, mi pasatiempo favorito es disfrutar de jugar videojuegos.
+De vez en cuando programo cosas e intento hacer juegos
 
 
 ## Tecnologías:
